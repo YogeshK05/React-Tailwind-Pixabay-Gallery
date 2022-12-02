@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Breact-tailwind-pixabay-gallery%7D/static/css/main.677b2cbd.css",
+    "main.js": "/%7Breact-tailwind-pixabay-gallery%7D/static/js/main.1c6ea83a.js",
+    "index.html": "/%7Breact-tailwind-pixabay-gallery%7D/index.html",
+    "main.677b2cbd.css.map": "/%7Breact-tailwind-pixabay-gallery%7D/static/css/main.677b2cbd.css.map",
+    "main.1c6ea83a.js.map": "/%7Breact-tailwind-pixabay-gallery%7D/static/js/main.1c6ea83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677b2cbd.css",
+    "static/js/main.1c6ea83a.js"
+  ]
+}
